@@ -1,2 +1,2 @@
 # Java-Notes-And-Programs
-Here I'm sharing java notes, programs and interview questions for preparation and practice.
+Hello, here I'm sharing some online resources which I found would be useful for people in need. These include Java notes, programs and interview questions for preparation and practice.
